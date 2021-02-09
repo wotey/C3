@@ -1,0 +1,69 @@
+/*
+ * Nav css File
+*/
+
+/* .Nav2 {
+        width: 100%;
+        height: 30px;
+        padding: 40px 594px 23px 74px;
+        
+        border: solid 1px #707070; 
+        background-color: #ffffff;
+        filter: drop-shadow(0, 5px, 20px,rgba(0, 122, 66, 0.65)) !important; 
+    
+} */
+
+nav {
+    display: flex;
+    width: 100%;
+    background-color: #ffffff;
+    text-align: center !important;
+} 
+
+a.navbar-brand {
+    padding-top: 0 !important;
+}
+.head {
+    filter: drop-shadow(0, 5px, 20px,rgba(0, 122, 66, 0.65)) !important; 
+    text-align: center;
+}
+/* .nav-link {
+    padding-top: 65px !important;
+    text-align: center;
+    padding-left: 8rem !important; 
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 200 !important;
+    color: #333333 !important;
+    bottom: 0 !important;
+    text-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+
+} */
+
+a {
+    height: fit-content !important;
+    
+}
+
+#logo {
+    height: 116px;
+    width: 79px;
+    margin-left: 50px !important;
+    /* display: inline-block !important; */
+    /* height: 100% !important; */
+    /* width: 70% !important; */
+}
+
+#but{
+    border: none !important;
+    box-shadow: none !important;
+    
+}
+navbar-toggler {
+    outline: none !important;
+}navbar-toggler {
+        outline: none !important;
+    }
+
+button:focus{
+    outline: none !important;
+}

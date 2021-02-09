@@ -1,0 +1,62 @@
+/*
+ * Connect css File
+*/
+
+.Connect {
+    /* propertys here */
+    /* background-color: #3f3e39 !important; */
+}
+
+#colli {
+    background-color: #fff;
+    filter: drop-shadow(4px 4px 4px #009937);
+    padding-bottom: 2%;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+
+#C3host {
+    width: 100%;
+    height: auto;
+    /* margin: 0 133px 0 71px; */
+    /* -webkit-filter: blur(1.2px); */
+    /* filter: blur(1.2px); */
+    filter: drop-shadow(0, 3px, 6px, #0076a565);
+    position: relative;
+    left: 2%;
+    /* margin-left: 2%; */
+}
+
+#formo {
+    justify-content: center!important;
+    
+    width: 50%;
+}
+#p2 {
+    height: fit-content;
+    width: 100%;
+    background-color: #fff;
+    padding-top: 30px;
+    justify-content: center!important;
+    align-items: center !important;
+    /* margin-left: 25%;
+    margin-right: 25%; */
+}
+
+Form {
+    
+}
+
+h2 {
+    padding-bottom: 0 !important;
+}
+
+#suggestion {
+    /* display: flex; */
+    padding-top: 10%;
+    justify-content: center;
+    align-items: center !important;
+    text-shadow: 0 3px 6px rgba(0, 0, 0, 0.16); 
+    height: 90vh;
+    background-color: #fff
+}

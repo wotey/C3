@@ -1,0 +1,55 @@
+/*
+ * Notes css File
+*/
+
+.Notes {
+    /* propertys here */
+    
+}
+.card {
+    text-align: left;
+    
+}
+#dropbown {
+    transform: rotate(180deg) !important;
+    fill: white !important;
+}
+#green {
+    color: #009937;
+}
+#cardimg {
+    opacity: 0.2;
+}
+#note {
+    padding: 0;
+    margin-bottom: 0 !important;
+}
+
+#sznone {
+    background-color: #009937;
+    border-color: #009937;
+    box-shadow: 0 0 0 0.2rem #009937 !important;
+}
+
+.Notes h1{
+    /* propertys here */
+    padding-top: 3%;
+}
+
+.btn-container {
+    width: 100% !important;
+    min-height: 10px !important;
+    height: fit-content !important;
+    display: flex !important;
+    justify-content: center!important;
+    align-items: center !important;
+    padding-top: 5%;
+}
+
+.card-body {
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    color: #212529;
+    background-color: rgba(255, 255, 255, 0.904) !important;
+}
