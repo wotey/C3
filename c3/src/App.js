@@ -10,6 +10,7 @@ const App = () => {
   return(
     <div className="App">
       <Switch>
+      <Route exact path="/C3" render={() => <Home/>} />
       <Route exact path="/" render={() => <Home/>} />
         <Route path="/Notes" render={() => <Notes/>} />
         <Route path="/Connect" render={() => <Connect/>} />
